@@ -1,9 +1,107 @@
 {
-  "tests": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+ 
+  "categories": [
+    {
+      "id": "9912025e-88a0-438d-9341-5c29347e4e35",
+      "sectionLabel": "Marla",
+      "image": "https://picsum.photos/seed/picsum/200/300",
+      "link": "",
+      "subCategories": [
+        {
+          "id": "94b030e0-876b-4ec6-8ba4-907914b5bb8b",
+          "label": "Wright"
+        }
+      ]
+    },
+    {
+      "id": "2e73606b-af78-45ec-ad1f-df5da000a3c5",
+      "sectionLabel": "Annette",
+      "image": "https://picsum.photos/seed/picsum/200/300",
+      "link": "",
+      "subCategories": [
+        {
+          "id": "6842b56d-8d78-4758-8113-dd3ec71f6213",
+          "label": "Dalton"
+        }
+      ]
+    },
+    {
+      "id": "8193e3e8-d0c7-4dc8-9c22-d046b89b89a5",
+      "sectionLabel": "Nadine",
+      "image": "https://picsum.photos/seed/picsum/200/300",
+      "link": "",
+      "subCategories": []
+    },
+    {
+      "id": "7be9ebde-5186-4591-81cb-af448b0b9c0a",
+      "sectionLabel": "Juarez",
+      "image": "https://picsum.photos/seed/picsum/200/300",
+      "link": "",
+      "subCategories": [
+        {
+          "id": "b7bfbf40-9ecf-4b46-87e0-607db1f2d9ad",
+          "label": "Marci"
+        },
+        {
+          "id": "a082c5b9-540f-4581-ba0a-e38d041d9f74",
+          "label": "Buchanan"
+        }
+      ]
+    },
+    {
+      "id": "ce058433-1b9d-41fc-9746-85cc4831e75e",
+      "sectionLabel": "Daphne",
+      "image": "https://picsum.photos/seed/picsum/200/300",
+      "link": "",
+      "subCategories": [
+        {
+          "id": "33b8b84f-f885-415f-9752-73b7b5c376b4",
+          "label": "Ware"
+        },
+        {
+          "id": "369b1404-cfbd-49cc-bc8f-c3b8a109b90e",
+          "label": "Rosalind"
+        }
+      ]
+    },
+    {
+      "id": "bec685d6-6bf4-4fbe-a69b-adb278879fad",
+      "sectionLabel": "April",
+      "image": "https://picsum.photos/seed/picsum/200/300",
+      "link": "",
+      "subCategories": [
+        {
+          "id": "5694450e-65d0-4302-8f7f-9186244748d1",
+          "label": "Manning"
+        }
+      ]
+    },
+    {
+      "id": "97dbf906-a7c9-4a7c-9424-438053d7a01c",
+      "sectionLabel": "Conrad",
+      "image": "https://picsum.photos/seed/picsum/200/300",
+      "link": "",
+      "subCategories": [
+        {
+          "id": "530d7a1e-911b-4b9c-af1a-e5408a62b418",
+          "label": "Alvarez"
+        }
+      ]
+    },
+    {
+      "id": "f38eb3b2-aea9-497a-8504-aef62b43ba7f",
+      "sectionLabel": "Sloan",
+      "image": "https://picsum.photos/seed/picsum/200/300",
+      "link": "",
+      "subCategories": [
+        {
+          "id": "aad3dce6-e190-4329-98db-37bb1ba35728",
+          "label": "Cochran"
+        }
+      ]
+    }
   ],
+
   "tsstsst": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
