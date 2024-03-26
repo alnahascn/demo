@@ -3,13 +3,61 @@
   "categories": [
     {
       "id": "9912025e-88a0-438d-9341-5c29347e4e35",
-      "sectionLabel": "Marla",
+      "sectionLabel": "Stoppers",
       "image": "https://picsum.photos/seed/picsum/300/200",
       "link": "",
       "subCategories": [
         {
           "id": "94b030e0-876b-4ec6-8ba4-907914b5bb8b",
-          "label": "Wright"
+          "label": "Ready to Use", 
+          "categoriesFilters": [
+             {
+               "id": "94b030e0-876b-4ec6-8ba4-907914b5bb8b",
+               "label": "Dimension",
+               "subCategories": [
+                  {
+                    "id": "6842b56d-8d78-4758-8113-dd3ec71f6213",
+                    "label": "13 mm"
+                  },
+                  {
+                      "id": "6842b56d-8d78-4758-8113-dd3ec71f6213",
+                      "label": "20 mm"
+                   }
+                ]
+             },       
+             {
+               "id": "94b030e0-876b-4ec6-8ba4-907914b5bb8b",
+               "label": "West Formula",
+               "subCategories": [
+                  {
+                    "id": "6842b56d-8d78-4758-8113-dd3ec71f6213",
+                    "label": "Bromobutyl 4023 / 50"
+                  },
+                  {
+                      "id": "6842b56d-8d78-4758-8113-dd3ec71f6213",
+                      "label": "Chlorobutyl 4432 / 50"
+                   }
+                ]
+             },       
+             {
+               "id": "94b030e0-876b-4ec6-8ba4-907914b5bb8b",
+               "label": "Film",
+               "subCategories": [
+                  {
+                    "id": "6842b56d-8d78-4758-8113-dd3ec71f6213",
+                    "label": "Yes"
+                  },
+                  {
+                      "id": "6842b56d-8d78-4758-8113-dd3ec71f6213",
+                      "label": "No"
+                   }
+                ]
+             }
+           ]
+        },       
+        {
+          "id": "94b030e0-876b-4ec6-8ba4-907914b5as3v",
+          "label": "Ready to Sterilize"         
         }
       ]
     },
