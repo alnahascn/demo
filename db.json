@@ -3,7 +3,7 @@
   "categories": [
     {
       "id": "9912025e-88a0-438d-9341-5c29347e4e35",
-      "sectionLabel": "Marla",
+      "sectionLabel": "Stoppers",
       "image": "https://picsum.photos/seed/picsum/300/200",
       "link": "",
       "subCategories": [
@@ -15,7 +15,7 @@
     },
     {
       "id": "2e73606b-af78-45ec-ad1f-df5da000a3c5",
-      "sectionLabel": "Annette",
+      "sectionLabel": "Seals",
       "image": "https://picsum.photos/seed/picsum/300/200",
       "link": "",
       "subCategories": [
@@ -27,14 +27,14 @@
     },
     {
       "id": "8193e3e8-d0c7-4dc8-9c22-d046b89b89a5",
-      "sectionLabel": "Nadine",
+      "sectionLabel": "Vials",
       "image": "https://picsum.photos/seed/picsum/300/200",
       "link": "",
       "subCategories": []
     },
     {
       "id": "7be9ebde-5186-4591-81cb-af448b0b9c0a",
-      "sectionLabel": "Juarez",
+      "sectionLabel": "Prefilled Syringe Components",
       "image": "https://picsum.photos/seed/picsum/300/200",
       "link": "",
       "subCategories": [
@@ -50,7 +50,7 @@
     },
     {
       "id": "ce058433-1b9d-41fc-9746-85cc4831e75e",
-      "sectionLabel": "Daphne",
+      "sectionLabel": "Cartridge Components",
       "image": "https://picsum.photos/seed/picsum/300/200",
       "link": "",
       "subCategories": [
@@ -66,37 +66,13 @@
     },
     {
       "id": "bec685d6-6bf4-4fbe-a69b-adb278879fad",
-      "sectionLabel": "April",
+      "sectionLabel": "Services",
       "image": "https://picsum.photos/seed/picsum/300/200",
       "link": "",
       "subCategories": [
         {
           "id": "5694450e-65d0-4302-8f7f-9186244748d1",
           "label": "Manning"
-        }
-      ]
-    },
-    {
-      "id": "97dbf906-a7c9-4a7c-9424-438053d7a01c",
-      "sectionLabel": "Conrad",
-      "image": "https://picsum.photos/seed/picsum/300/200",
-      "link": "",
-      "subCategories": [
-        {
-          "id": "530d7a1e-911b-4b9c-af1a-e5408a62b418",
-          "label": "Alvarez"
-        }
-      ]
-    },
-    {
-      "id": "f38eb3b2-aea9-497a-8504-aef62b43ba7f",
-      "sectionLabel": "Sloan",
-      "image": "https://picsum.photos/seed/picsum/300/200",
-      "link": "",
-      "subCategories": [
-        {
-          "id": "aad3dce6-e190-4329-98db-37bb1ba35728",
-          "label": "Cochran"
         }
       ]
     }
