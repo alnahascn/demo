@@ -9,7 +9,11 @@
       "subCategories": [
         {
           "id": "94b030e0-876b-4ec6-8ba4-907914b5bb8b",
-          "label": "Wright"
+          "label": "Ready to Use"
+        },
+       {
+          "id": "94b030e0-876b-4ec6-8ba4-907914b5bb8g",
+          "label": "Ready to Sterilize"
         }
       ]
     },
@@ -72,7 +76,11 @@
       "subCategories": [
         {
           "id": "5694450e-65d0-4302-8f7f-9186244748d1",
-          "label": "Manning"
+          "label": "Lab services"
+        },
+       {
+          "id": "5694450e-65d0-4302-8f7f-9186244748d5",
+          "label": "Delta Cube"
         }
       ]
     }
