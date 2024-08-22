@@ -6,7 +6,7 @@
       "sectionLabel": "Stoppers",
       "image": "/-/media/WestPharma/Images/Products/Vial-Containment-System/VCS-Stopper-Dir",
       "link": "",
-      "subCategories": [
+      "SubCategories": [
         {
           "id": "94b030e0-876b-4ec6-8ba4-907914b5bb8b",
           "label": "Ready to Use"
@@ -22,7 +22,7 @@
       "sectionLabel": "Seals",
       "image": "/-/media/WestPharma/Images/Products/Vial-Containment-System/Seals/VCS-seals-dir-2",
       "link": "",
-      "subCategories": [
+      "SubCategories": [
         {
           "id": "6842b56d-8d78-4758-8113-dd3ec71f6213",
           "label": "Dalton"
@@ -34,14 +34,14 @@
       "sectionLabel": "Vials",
       "image": "/-/media/WestPharma/Images/Products/Vial-Containment-System/VCS-Vials-Dir",
       "link": "",
-      "subCategories": []
+      "SubCategories": []
     },
     {
       "id": "7be9ebde-5186-4591-81cb-af448b0b9c0a",
       "sectionLabel": "Prefilled Syringe Components",
       "image": "/-/media/WestPharma/Images/Products/Page-Images/PNG/prefillable_webp",
       "link": "",
-      "subCategories": [
+      "SubCategories": [
         {
           "id": "b7bfbf40-9ecf-4b46-87e0-607db1f2d9ad",
           "label": "Marci"
@@ -57,7 +57,7 @@
       "sectionLabel": "Cartridge Components",
       "image": "/-/media/WestPharma/Images/Products/Page-Images/PNG/catridge-system3x",
       "link": "",
-      "subCategories": [
+      "SubCategories": [
         {
           "id": "33b8b84f-f885-415f-9752-73b7b5c376b4",
           "label": "Ware"
@@ -73,7 +73,7 @@
       "sectionLabel": "Services",
       "image": "/-/media/Commerce-Images/services/Services.png",
       "link": "",
-      "subCategories": [
+      "SubCategories": [
         {
           "id": "5694450e-65d0-4302-8f7f-9186244748d1",
           "label": "Lab services"
