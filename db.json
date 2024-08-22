@@ -9,11 +9,11 @@
       "SubCategories": [
         {
           "id": "94b030e0-876b-4ec6-8ba4-907914b5bb8b",
-          "label": "Ready to Use"
+          "Name": "Ready to Use"
         },
        {
           "id": "94b030e0-876b-4ec6-8ba4-907914b5bb8g",
-          "label": "Ready to Sterilize"
+          "Name": "Ready to Sterilize"
         }
       ]
     },
@@ -25,7 +25,7 @@
       "SubCategories": [
         {
           "id": "6842b56d-8d78-4758-8113-dd3ec71f6213",
-          "label": "Dalton"
+          "Name": "Dalton"
         }
       ]
     },
@@ -44,11 +44,11 @@
       "SubCategories": [
         {
           "id": "b7bfbf40-9ecf-4b46-87e0-607db1f2d9ad",
-          "label": "Marci"
+          "Name": "Marci"
         },
         {
           "id": "a082c5b9-540f-4581-ba0a-e38d041d9f74",
-          "label": "Buchanan"
+          "Name": "Buchanan"
         }
       ]
     },
@@ -60,11 +60,11 @@
       "SubCategories": [
         {
           "id": "33b8b84f-f885-415f-9752-73b7b5c376b4",
-          "label": "Ware"
+          "Name": "Ware"
         },
         {
           "id": "369b1404-cfbd-49cc-bc8f-c3b8a109b90e",
-          "label": "Rosalind"
+          "Name": "Rosalind"
         }
       ]
     },
@@ -76,11 +76,11 @@
       "SubCategories": [
         {
           "id": "5694450e-65d0-4302-8f7f-9186244748d1",
-          "label": "Lab services"
+          "Name": "Lab services"
         },
        {
           "id": "5694450e-65d0-4302-8f7f-9186244748d5",
-          "label": "Delta Cube"
+          "Name": "Delta Cube"
         }
       ]
     }
