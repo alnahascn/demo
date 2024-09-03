@@ -157,12 +157,6 @@
               "ItemId": "94b030e0-876b-4ec6-8ba4-907914b5bb8b",
               "Name": "Ready to Use",
               "image": "/-/media/WestPharma/Images/Products/Vial-Containment-System/VCS-Stopper-Dir"
-            },
-            {
-              "id": "94b030e0-876b-4ec6-8ba4-907914b5bb8g",
-              "ItemId": "94b030e0-876b-4ec6-8ba4-907914b5bb8g",
-              "Name": "Ready to Sterilize",
-              "image": "/-/media/WestPharma/Images/Products/Vial-Containment-System/VCS-Stopper-Dir"
             }
           ]
         },
@@ -177,12 +171,6 @@
               "ItemId": "94b030e0-876b-4ec6-8ba4-907914b5bb8b",
               "Name": "Ready to Use",
               "image": "/-/media/WestPharma/Images/Products/Vial-Containment-System/VCS-Stopper-Dir"
-            },
-            {
-              "id": "94b030e0-876b-4ec6-8ba4-907914b5bb8g",
-              "ItemId": "94b030e0-876b-4ec6-8ba4-907914b5bb8g",
-              "Name": "Ready to Sterilize",
-              "image": "/-/media/WestPharma/Images/Products/Vial-Containment-System/VCS-Stopper-Dir"
             }
           ]
         },
@@ -196,12 +184,6 @@
               "id": "94b030e0-876b-4ec6-8ba4-907914b5bb8b",
               "ItemId": "94b030e0-876b-4ec6-8ba4-907914b5bb8b",
               "Name": "Ready to Use",
-              "image": "/-/media/WestPharma/Images/Products/Vial-Containment-System/VCS-Stopper-Dir"
-            },
-            {
-              "id": "94b030e0-876b-4ec6-8ba4-907914b5bb8g",
-              "ItemId": "94b030e0-876b-4ec6-8ba4-907914b5bb8g",
-              "Name": "Ready to Sterilize",
               "image": "/-/media/WestPharma/Images/Products/Vial-Containment-System/VCS-Stopper-Dir"
             }
           ]
@@ -226,12 +208,6 @@
               "ItemId": "94b030e0-876b-4ec6-8ba4-907914b5bb8b",
               "Name": "Ready to Use",
               "image": "/-/media/WestPharma/Images/Products/Vial-Containment-System/VCS-Stopper-Dir"
-            },
-            {
-              "id": "94b030e0-876b-4ec6-8ba4-907914b5bb8g",
-              "ItemId": "94b030e0-876b-4ec6-8ba4-907914b5bb8g",
-              "Name": "Ready to Sterilize",
-              "image": "/-/media/WestPharma/Images/Products/Vial-Containment-System/VCS-Stopper-Dir"
             }
           ]
         },
@@ -245,12 +221,6 @@
               "id": "94b030e0-876b-4ec6-8ba4-907914b5bb8b",
               "ItemId": "94b030e0-876b-4ec6-8ba4-907914b5bb8b",
               "Name": "Ready to Use",
-              "image": "/-/media/WestPharma/Images/Products/Vial-Containment-System/VCS-Stopper-Dir"
-            },
-            {
-              "id": "94b030e0-876b-4ec6-8ba4-907914b5bb8g",
-              "ItemId": "94b030e0-876b-4ec6-8ba4-907914b5bb8g",
-              "Name": "Ready to Sterilize",
               "image": "/-/media/WestPharma/Images/Products/Vial-Containment-System/VCS-Stopper-Dir"
             }
           ]
@@ -266,31 +236,10 @@
               "ItemId": "94b030e0-876b-4ec6-8ba4-907914b5bb8b",
               "Name": "Ready to Use",
               "image": "/-/media/WestPharma/Images/Products/Vial-Containment-System/VCS-Stopper-Dir"
-            },
-            {
-              "id": "94b030e0-876b-4ec6-8ba4-907914b5bb8g",
-              "ItemId": "94b030e0-876b-4ec6-8ba4-907914b5bb8g",
-              "Name": "Ready to Sterilize",
-              "image": "/-/media/WestPharma/Images/Products/Vial-Containment-System/VCS-Stopper-Dir"
             }
           ]
         }
       ]
     }
-  ],
-  "tsstsst": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
