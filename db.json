@@ -5,6 +5,7 @@
     "sectionLabel": "Stoppers",
     "image": "https://picsum.photos/seed/picsum/300/200",
     "link": "",
+    "isRequired": true,
     "subCategories": [
       {
         "id": "94b030e0-876b-4ec6-8ba4-1e2f3b0291ba",
